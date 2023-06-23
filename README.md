@@ -4,8 +4,6 @@ Instagram Clone (Both frontend and backend) created with Flutter and Firebase.
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)
 
-## Show some :heart: and star the repo to support the project.
-
 ## Note
 This repository is still under development and I will continue to add more features to it.
 
