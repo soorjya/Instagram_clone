@@ -27,9 +27,8 @@ Include a few screenshots or a GIF demonstrating the user interface and key feat
 ### Installation
 
 1. Clone the repository:
-   ```sh
+```sh
  https://github.com/soorjya/instagram-clone.git
-
 ```
 
 2. Navigate to the project directory:
